@@ -34,18 +34,26 @@ with clear documentation and visualization of results.</p>
   <li><strong>Tech Stack:</strong> <code>pandas</code>, <code>numpy</code>, <code>scipy</code>, <code>matplotlib</code>, <code>seaborn</code></li> (and more)
 </ul>
 
-<h3>📂 Assignment 2: [TBD]</h3>
+<h3>📂 Assignment 2: Data Visualization & Network Analysis</h3>
 <ul>
-  <li><strong>Objective:</strong> [To be updated]</li>
+  <li><strong>Objective:</strong> Utilize data visualization techniques to analyze relationships and distributions.</li>
   <li><strong>Key Steps:</strong>
     <ol>
-      <li>[Step 1]</li>
-      <li>[Step 2]</li>
-      <li>[Step 3]</li>
+      <li><strong>Bar Chart Analysis:</strong> Visualize the distribution of Yes/No responses by category.</li>
+      <li><strong>Sankey Diagram:</strong> Illustrate the flow distribution between different categories.</li>
+      <li><strong>Network Graph:</strong> Construct a network of category connections, highlighting core and external nodes.</li>
     </ol>
   </li>
-  <li><strong>Tech Stack:</strong> [Relevant Python libraries used]</li>
+  <li><strong>Tech Stack:</strong> Python (Matplotlib, Seaborn, Plotly, NetworkX)</li>
+  <li><strong>Generated Visualizations:</strong>
+    <ul>
+      <li>📊 <em>Bar Graph:</em> Displays Yes/No distribution across labeled categories.</li>
+      <li>🔗 <em>Network Graph:</em> Maps node connections, distinguishing between core and external entities.</li>
+      <li>📈 <em>Sankey Diagram:</em> Represents flow relationships between categorized entities.</li>
+    </ul>
+  </li>
 </ul>
+
 
 <h3>📂 Assignment 3: [Title of the Assignment]</h3>
 <ul>
