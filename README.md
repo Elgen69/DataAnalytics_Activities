@@ -66,7 +66,8 @@ with clear documentation and visualization of results.</p>
 
 <h4>Sample Output:</h4>
 <p>(Include example graphs and insights from the analysis.)</p>
-![image](https://github.com/user-attachments/assets/2a649162-e4f1-4381-9381-9baee4857074)
+![Descriptive Alt Text](https://github.com/user-attachments/assets/2a649162-e4f1-4381-9381-9baee4857074)
+
 
 
 <hr>
