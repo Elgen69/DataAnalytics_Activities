@@ -31,7 +31,7 @@ with clear documentation and visualization of results.</p>
       <li>Perform <strong>sensitivity analysis</strong> to check robustness of findings.</li>
     </ol>
   </li>
-  <li><strong>Tech Stack:</strong> <code>pandas</code>, <code>numpy</code>, <code>scipy</code>, <code>matplotlib</code>, <code>seaborn</code></li>
+  <li><strong>Tech Stack:</strong> <code>pandas</code>, <code>numpy</code>, <code>scipy</code>, <code>matplotlib</code>, <code>seaborn</code></li> (and more)
 </ul>
 
 <h3>📂 Assignment 2: [TBD]</h3>
@@ -66,6 +66,7 @@ with clear documentation and visualization of results.</p>
 
 <h4>Sample Output:</h4>
 <p>(Include example graphs and insights from the analysis.)</p>
+![image](https://github.com/user-attachments/assets/8ee0b319-e0da-4089-a040-05d52ad3a4b8)
 
 <hr>
 
@@ -93,5 +94,4 @@ with clear documentation and visualization of results.</p>
 
 <hr>
 
-Sample output: (Graphs and insights from our analysis.)
-![image](https://github.com/user-attachments/assets/8ee0b319-e0da-4089-a040-05d52ad3a4b8)
+
