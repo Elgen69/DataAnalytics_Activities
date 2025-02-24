@@ -1,4 +1,4 @@
-<h1>📊 Data Analytics Activities Repository</h1>
+<h1>📊Data Analytics Activities Repository</h1>
 
 <p><strong>Course:</strong> Data Analytics<br>
 <strong>Authors:</strong> Shawn Jurgen Mayol, Elgen Mar Arinasa<br>
