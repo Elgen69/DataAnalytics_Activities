@@ -55,11 +55,19 @@ with clear documentation and visualization of results.</p>
 </ul>
 
 
-<h3>📂 Assignment 3: [Title of the Assignment]</h3>
+<h3>📂 Assignment 3: For Clustering: Sessa Empirical Estimator</h3>
 <ul>
-  <li><strong>Objective:</strong> [To be updated]</li>
-  <li><strong>Key Steps:</strong> [Step breakdown]</li>
-  <li><strong>Tech Stack:</strong> [Relevant Python libraries used]</li>
+  <li><strong>Objective:</strong> Apply clustering techniques (K-Means and DBSCAN) to prescription duration data using the <em>Sessa Empirical Estimator (SEE)</em> method.</li>
+  <li><strong>Key Steps:</strong>
+    <ol>
+      <li>Preprocess and clean the dataset, ensuring accurate calculations of prescription duration intervals.</li>
+      <li>Implement K-Means and DBSCAN clustering algorithms to identify patterns in prescription refill behavior.</li>
+      <li>Compare the performance of both algorithms using silhouette scores and other evaluation metrics.</li>
+      <li>Visualize the clustering results, comparing patterns in dosage per day and prescription duration.</li>
+      <li>Analyze the clinical implications of the clustering results, focusing on improving patient adherence and healthcare management.</li>
+    </ol>
+  </li>
+  <li><strong>Tech Stack:</strong> <code>pandas</code>, <code>numpy</code>, <code>matplotlib</code>, <code>seaborn</code>, <code>sklearn</code> (DBSCAN, K-Means)</li>
 </ul>
 
 <hr>
