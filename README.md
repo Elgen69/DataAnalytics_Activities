@@ -70,6 +70,31 @@ with clear documentation and visualization of results.</p>
   <li><strong>Tech Stack:</strong> <code>pandas</code>, <code>numpy</code>, <code>matplotlib</code>, <code>seaborn</code>, <code>sklearn</code> (DBSCAN, K-Means)</li>
 </ul>
 
+<h3>📂 Assignment 4: Target Trial Emulation (TTE) & TTE-V2 with Clustering</h3>
+<ul>
+  <li><strong>Objective:</strong> Implement the <em>Target Trial Emulation (TTE)</em> methodology in Python, replicating results from an R-based framework, and extend it by integrating clustering techniques to improve patient subgroup analysis.</li>
+  
+  <li><strong>Key Steps:</strong>
+    <ol>
+      <li><strong>Replicate TTE in Python:</strong> Convert the original R-based Target Trial Emulation (TTE) into Python, ensuring the methodology and results remain consistent.</li>
+      <li><strong>Perform Causal Inference:</strong> Apply the Marginal Structural Model (MSM) to estimate treatment effects while adjusting for confounders and censoring.</li>
+      <li><strong>Validate Against R Implementation:</strong> Ensure that the results from Python match those obtained from the original R-based TTE framework.</li>
+      <li><strong>Develop TTE-V2 (Enhanced with Clustering):</strong> Introduce a clustering mechanism within TTE to segment patients into meaningful subgroups.</li>
+      <li><strong>Apply K-Means Clustering:</strong> Group patients based on baseline characteristics and analyze how treatment effects differ across clusters.</li>
+      <li><strong>Compare TTE vs. TTE-V2:</strong> Evaluate whether clustering improves the robustness of treatment effect estimation.</li>
+      <li><strong>Discuss Findings:</strong> Interpret the impact of clustering in observational studies and discuss its limitations and advantages.</li>
+    </ol>
+  </li>
+
+  <li><strong>Tech Stack:</strong> 
+    <ul>
+      <li><code>pandas</code>, <code>numpy</code>, <code>matplotlib</code>, <code>seaborn</code></li>
+      <li><code>statsmodels</code> (for Marginal Structural Models)</li>
+      <li><code>sklearn</code> (for clustering: K-Means, Silhouette Score)</li>
+    </ul>
+  </li>
+</ul>
+
 <hr>
 
 <h2>📈 Visual Representations</h2>
